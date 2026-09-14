@@ -1,0 +1,211 @@
+{
+  "query": {
+    "modelIds": [],
+    "assetIds": [
+      "asset_FrG3eWvkxAXxFVpYYNmdz8J7",
+      "asset_DP49wQ5y21ukUfZzDttNLJs9",
+      "asset_hyyCcRSYxQKTcV2XH7U9Ufyh",
+      "asset_L9mD6y1dWjRBeCBF3BDA21L8",
+      "asset_QACtj7uVs7KUo3EWdq5ks9aq",
+      "asset_XPy9FKrofQQTzwisGJCzFDi8",
+      "asset_GvayHX2fqrnL3AUXSJdj9gqY",
+      "asset_ARrwC2DHj5iFccaAVWpRw8Mt",
+      "asset_SxqDWLni8i15QjyUdeVejXph",
+      "asset_F4YxsBBshE3mLhDoprabG9Xj",
+      "asset_GeYrbKoPh8AhxvnDKRbWStHd",
+      "asset_iGJMgWdXRq3uVzbW4RydRjTi",
+      "asset_1MzUMmPyWXcWvgrERnWFcDBG",
+      "asset_o937U2busMKjy9x8A2yewrCD",
+      "asset_Yvz7nmdmfA7meCqRwbSZmER7"
+    ],
+    "inferenceIds": []
+  },
+  "options": {
+    "fileNameTemplate": "PitchRawVideo-<num>",
+    "flat": true,
+    "preferOriginal": false
+  },
+  "count": 15,
+  "assets": [
+    {
+      "id": "asset_FrG3eWvkxAXxFVpYYNmdz8J7",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_GNdnDb8oC3queq8aT4evGjHB",
+      "path": "PitchRawVideo-01.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_FCxroikCgKA5ziCiu7NcsDNm",
+      "seed": 1974995453
+    },
+    {
+      "id": "asset_DP49wQ5y21ukUfZzDttNLJs9",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_snQsesjwi7BD9PQ21y1WuW9K",
+      "path": "PitchRawVideo-02.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_9QL8qm3UJQbPBmSywjUp6z6s",
+      "seed": 2724542233
+    },
+    {
+      "id": "asset_hyyCcRSYxQKTcV2XH7U9Ufyh",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_snQsesjwi7BD9PQ21y1WuW9K",
+      "path": "PitchRawVideo-03.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_9QL8qm3UJQbPBmSywjUp6z6s",
+      "seed": 1839389580
+    },
+    {
+      "id": "asset_L9mD6y1dWjRBeCBF3BDA21L8",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_QjTSxoUt6ex8rDm1d1TARaJ5",
+      "path": "PitchRawVideo-04.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_ZbZEwFAtZQ6bntCGS6oYF3cg",
+      "seed": 4157782419
+    },
+    {
+      "id": "asset_QACtj7uVs7KUo3EWdq5ks9aq",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_84sa2T81Vb6o7HeNPJabCwoX",
+      "path": "PitchRawVideo-05.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_oUCcPwthFcUKgoHxa14zzEcv",
+      "seed": 2052592169
+    },
+    {
+      "id": "asset_XPy9FKrofQQTzwisGJCzFDi8",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_QFFyRSWCHy7e6zcTUgZxuavq",
+      "path": "PitchRawVideo-06.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_xchDdKftED6MxbTLU1YpUhAP",
+      "seed": 2468555755
+    },
+    {
+      "id": "asset_GvayHX2fqrnL3AUXSJdj9gqY",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_d17asufqs83dbKPxDteLZE3h",
+      "path": "PitchRawVideo-07.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_YVVFFrN4x3CP3HCN1kY3JWuz",
+      "seed": 3751572723
+    },
+    {
+      "id": "asset_ARrwC2DHj5iFccaAVWpRw8Mt",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_pFiL37s78eSLMobSeQttvvN3",
+      "path": "PitchRawVideo-08.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_B6WmEDcrHSWFEFqcVsNEXUye",
+      "seed": 2370258510
+    },
+    {
+      "id": "asset_SxqDWLni8i15QjyUdeVejXph",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_otoqzj9fNLADiEB7nKftxWFA",
+      "path": "PitchRawVideo-09.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_qj1NnWztpQVU5KGkJyFdQdzk",
+      "seed": 2697978999
+    },
+    {
+      "id": "asset_F4YxsBBshE3mLhDoprabG9Xj",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_UBfvtGdrCtsujtVJpibza6UC",
+      "path": "PitchRawVideo-10.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_795E1W4GCY8KgwzUKPDeegwe",
+      "seed": 1729072313
+    },
+    {
+      "id": "asset_GeYrbKoPh8AhxvnDKRbWStHd",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_ueZM5YufM27aPDPBFHiwsnza",
+      "path": "PitchRawVideo-11.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_9eG4yvEzz4hHzd5s5DQseSw9",
+      "seed": 200937015
+    },
+    {
+      "id": "asset_iGJMgWdXRq3uVzbW4RydRjTi",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_iFcgmXk7S95A68XrA42wwdSB",
+      "path": "PitchRawVideo-12.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_JA6WMD9zQESb83aRKy2RjvQF",
+      "seed": 3403941154
+    },
+    {
+      "id": "asset_1MzUMmPyWXcWvgrERnWFcDBG",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_vmFCogKcJ7JsuxA4xehySouy",
+      "path": "PitchRawVideo-13.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_JA6WMD9zQESb83aRKy2RjvQF",
+      "seed": 9008941
+    },
+    {
+      "id": "asset_o937U2busMKjy9x8A2yewrCD",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_AXCRYPPQ3aAU59QtqJ8YpbWx",
+      "path": "PitchRawVideo-14.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_jBSu7WYuGbGwEn6m2wgFYrT6",
+      "seed": 4180849944
+    },
+    {
+      "id": "asset_Yvz7nmdmfA7meCqRwbSZmER7",
+      "tags": [],
+      "type": "img2video",
+      "parentAsset": "asset_uGi5gX8V9pETxEBb6J3rHRpH",
+      "path": "PitchRawVideo-15.mp4",
+      "generator": {
+        "name": "Runway Gen4.5"
+      },
+      "prompt": "asset_NCqeBSTTL2o83T8ssn74fTjb",
+      "seed": 1220321600
+    }
+  ]
+}

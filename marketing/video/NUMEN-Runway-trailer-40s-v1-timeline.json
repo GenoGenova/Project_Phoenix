@@ -1,0 +1,114 @@
+[
+  {
+    "shot": 1,
+    "source": "PitchRawVideo-14.mp4",
+    "start": 0,
+    "duration": 3,
+    "title": "Galaxy opening",
+    "narration": "Far from Earth, a new future awaits."
+  },
+  {
+    "shot": 2,
+    "source": "PitchRawVideo-13.mp4",
+    "start": 3,
+    "duration": 4,
+    "title": "Discover Numens",
+    "narration": "Awaken your Numen: a living frame, guided by your pilot."
+  },
+  {
+    "shot": 3,
+    "source": "PitchRawVideo-12.mp4",
+    "start": 7,
+    "duration": 2,
+    "title": "Mission preview",
+    "narration": "Explore a divided galaxy."
+  },
+  {
+    "shot": 4,
+    "source": "PitchRawVideo-11.mp4",
+    "start": 9,
+    "duration": 3,
+    "title": "Squad selection",
+    "narration": "Build your squad of four."
+  },
+  {
+    "shot": 5,
+    "source": "PitchRawVideo-10.mp4",
+    "start": 12,
+    "duration": 3,
+    "title": "Cockpit departure",
+    "narration": "Lead them into the unknown."
+  },
+  {
+    "shot": 6,
+    "source": "PitchRawVideo-09.mp4",
+    "start": 15,
+    "duration": 4,
+    "title": "Tactical battle",
+    "narration": "Use cover. Coordinate abilities. Make every move count."
+  },
+  {
+    "shot": 7,
+    "source": "PitchRawVideo-08.mp4",
+    "start": 19,
+    "duration": 2,
+    "title": "Artefact collection",
+    "narration": "Recover Neural Artefacts."
+  },
+  {
+    "shot": 8,
+    "source": "PitchRawVideo-07.mp4",
+    "start": 21,
+    "duration": 3,
+    "title": "Neural Artefact",
+    "narration": "Knowledge with the power to transform."
+  },
+  {
+    "shot": 9,
+    "source": "PitchRawVideo-06.mp4",
+    "start": 24,
+    "duration": 2,
+    "title": "Upgrade selection",
+    "narration": "Link. Adapt. Evolve."
+  },
+  {
+    "shot": 10,
+    "source": "PitchRawVideo-05.mp4",
+    "start": 26,
+    "duration": 4,
+    "title": "Extreme upgrade",
+    "narration": "Unlock new equipment, abilities, and a second form."
+  },
+  {
+    "shot": 11,
+    "source": "PitchRawVideo-04.mp4",
+    "start": 30,
+    "duration": 3,
+    "title": "Carrier expansion",
+    "narration": "Expand your carrier. Build your home."
+  },
+  {
+    "shot": 12,
+    "source": "PitchRawVideo-02.mp4",
+    "start": 33,
+    "duration": 2,
+    "title": "Pilot stories",
+    "narration": "Discover your pilots' stories."
+  },
+  {
+    "shot": 13,
+    "source": "PitchRawVideo-01.mp4",
+    "start": 35,
+    "duration": 2,
+    "title": "Corporate factions",
+    "narration": "Face competing visions of survival."
+  },
+  {
+    "shot": 14,
+    "source": "PitchRawVideo-15.mp4",
+    "start": 37,
+    "duration": 3,
+    "title": "Next horizon",
+    "narration": "NUMEN. Your next horizon."
+  }
+]
