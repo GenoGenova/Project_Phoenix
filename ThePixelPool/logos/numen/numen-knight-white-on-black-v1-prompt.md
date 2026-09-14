@@ -1,0 +1,3 @@
+Generated with the built-in image generation tool using numen-knight-v1.png as reference. Opaque white-on-black PNG.
+
+Create the white-on-black color variant of this exact supplied NUMEN Knight logo. Keep the exact helmet geometry and NUMEN typography, proportions and layout of the reference unchanged. Fill every helmet and wordmark shape PURE WHITE #FFFFFF. Fill the entire background and all visor/internal negative spaces PURE SOLID BLACK #000000. Opaque black background, not transparency. Absolutely NO checkerboard, texture, gradients, shading, outlines, glow, shadows, lighting or paper. Crisp flat two-color logo, white solid silhouettes against black. One image.
