@@ -33,7 +33,7 @@ The **Lu AND Vincent Frame** is reserved for the team's manual ideas. AI contrib
 
 ## Website preview
 
-Open [`https://genogenova.github.io/Project_Phoenix/web/index.html`](web/index.html) in a browser to view the placeholder page. No installation or build step is required.
+Open [`Web Page`]([web/index.html](https://genogenova.github.io/Project_Phoenix/web/index.html)) in a browser to view the placeholder page. No installation or build step is required.
 
 This is a local preview; the website has not been deployed.
 
