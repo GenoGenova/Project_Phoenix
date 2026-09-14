@@ -31,11 +31,9 @@ Our design notes, brainstorming, and project documentation live on the [Miro boa
 
 The **Lu AND Vincent Frame** is reserved for the team's manual ideas. AI contributions must stay outside that frame.
 
-## Website preview
+## Website
 
-Open [`Web Page`]([genogenova.github.io/Project_Phoenix/web/index.html]) in a browser to view the placeholder page. No installation or build step is required.
-
-This is a local preview; the website has not been deployed.
+Visit the [Project Phoenix website](https://genogenova.github.io/Project_Phoenix/web/index.html) to explore the game concept and visuals. No installation is required.
 
 ## Prototype setup
 
