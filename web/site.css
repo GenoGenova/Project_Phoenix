@@ -28,13 +28,13 @@ h1 em{color:var(--teal);font-style:normal}
 .hero p{max-width:560px;color:var(--muted);font-size:20px}
 .button{display:inline-block;padding:12px 22px;border:1px solid #87e3d460;background:#87e3d410;text-decoration:none;font-size:12px;letter-spacing:.08em;margin-top:20px}.button:hover{background:#87e3d42a}
 .facts{display:flex;justify-content:space-between;gap:20px;padding:25px 8vw;border-block:1px solid #ffffff18;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.chapter{padding:clamp(70px,10vw,170px) 0 0;overflow:hidden}
-.copy{display:grid;grid-template-columns:1.2fr 1fr;gap:8vw;align-items:end;margin:0 8vw 34px}
+.chapter{padding:clamp(70px,10vw,170px) 6vw 0;overflow:hidden}
+.copy{display:grid;grid-template-columns:1.2fr 1fr;gap:8vw;align-items:end;margin:0 2vw 34px}
 h2{font-size:clamp(30px,4.3vw,76px);font-weight:400;letter-spacing:-.04em;line-height:1.12;margin:14px 0 0}
 .copy p{color:var(--muted);margin:0;max-width:380px;font-size:clamp(16px,1.4vw,21px)}
-figure{margin:0}figure>a{display:block;overflow:hidden;border:0;border-radius:0}
+figure{margin:0}figure>a{display:block;overflow:hidden;border:1px solid #ffffff18;border-radius:4px}
 figure img{width:100%;height:auto;display:block}
-figcaption{display:flex;justify-content:space-between;gap:12px;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#8da0aa;margin:12px 8vw 0}
+figcaption{display:flex;justify-content:space-between;gap:12px;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#8da0aa;margin-top:12px}
 .motion-ready .chapter .copy{opacity:.2;transform:translateY(28px);transition:opacity .85s ease,transform .85s ease}
 .motion-ready .chapter:nth-of-type(even) .copy{transform:translateX(-32px)}
 .motion-ready .chapter:nth-of-type(odd) .copy{transform:translateX(32px)}
@@ -45,7 +45,7 @@ figcaption{display:flex;justify-content:space-between;gap:12px;font-size:10px;le
 .finale:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#080e13ed,transparent 45%)}
 .finale h2{font-size:clamp(36px,5vw,84px);letter-spacing:.32em;margin-left:.32em}.finale p{color:#cfebe4;letter-spacing:.12em}
 footer{padding:28px 6vw;display:flex;justify-content:space-between;gap:24px;border-top:1px solid #ffffff18;font-size:11px;color:var(--muted)}footer p{margin:0}footer a{color:var(--gold)}
-@media(min-width:2000px){.copy{margin-inline:10vw}figcaption{margin-inline:10vw}.hero{padding-block:130px}.trailer video{height:calc(100svh - 130px)}}
-@media(max-width:700px){header{flex-wrap:wrap;gap:12px;padding:14px 5vw}nav{gap:20px}.trailer video{height:auto;min-height:0;aspect-ratio:16/9}.trailer-bar{align-items:flex-start;padding:12px 4vw;flex-direction:column;gap:10px}.trailer-controls{width:100%}.trailer-controls button{flex:1;padding:10px}.hero{padding:60px 6vw}.hero p{font-size:17px}.facts{flex-wrap:wrap;justify-content:start;padding:22px 6vw}.chapter{padding:65px 0 0}.copy{grid-template-columns:1fr;gap:18px;margin:0 6vw 24px}figcaption{margin-inline:6vw}.copy p{max-width:100%}.finale{height:85svh;min-height:560px}.finale>img{object-position:50% 50%}footer{flex-direction:column}}
+@media(min-width:2000px){.chapter{padding-inline:8vw}.hero{padding-block:130px}.trailer video{height:calc(100svh - 130px)}}
+@media(max-width:700px){header{flex-wrap:wrap;gap:12px;padding:14px 5vw}nav{gap:20px}.trailer video{height:auto;min-height:0;aspect-ratio:16/9}.trailer-bar{align-items:flex-start;padding:12px 4vw;flex-direction:column;gap:10px}.trailer-controls{width:100%}.trailer-controls button{flex:1;padding:10px}.hero{padding:60px 6vw}.hero p{font-size:17px}.facts{flex-wrap:wrap;justify-content:start;padding:22px 6vw}.chapter{padding:65px 4vw 0}.copy{grid-template-columns:1fr;gap:18px;margin-bottom:24px}.copy p{max-width:100%}.finale{height:85svh;min-height:560px}.finale>img{object-position:50% 50%}footer{flex-direction:column}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.motion-ready .chapter .copy{opacity:1;transform:none!important;transition:none}.motion-ready .chapter figure img{transform:none!important;will-change:auto}}
 .visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
