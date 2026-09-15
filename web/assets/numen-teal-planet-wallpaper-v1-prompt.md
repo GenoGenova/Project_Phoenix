@@ -1,0 +1,5 @@
+# Closing wallpaper
+
+Generated with the built-in image generation tool using the approved Numen icon as a reference.
+
+Create a polished 16:9 widescreen NUMEN website closing wallpaper. The provided image is the exact white Numen knight-head icon to incorporate, retain its distinctive pointed helmet silhouette, narrow dark visor and asymmetric porous frame cutouts faithfully. Center that clean flat white emblem in the upper-middle third, modest size approximately 16 percent of image width. Behind it a majestic new alien planet fills the lower half: emerald-green seas, teal clouds, luminous mint atmosphere on a sweeping curved horizon, a tiny distant moon, sparse stars in deep nearly black space. Elegant cinematic sci-fi illustration mixing soft shaded 3D depth with painted atmosphere, high detail clouds, restrained luminous teal rim light, quiet hopeful mood. Planet and space wide enough for desktop wallpaper cropping. Strong negative space around the icon. No text, no lettering, no additional logos, no ships, no robots. This is one finished brand wallpaper, not a collage.
