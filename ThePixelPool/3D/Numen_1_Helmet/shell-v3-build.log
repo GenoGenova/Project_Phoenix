@@ -1,0 +1,57 @@
+00:00.140  reports          | WARNING Unable to open 'C:\Users\vincent.ganachaud\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v3.py:10: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('Neutral clay');mat.diffuse_color=(.66,.68,.70,1);mat.use_nodes=True
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+16:37:09 | INFO: Starting glTF 2.0 export
+16:37:09 | INFO: Extracting primitive: 01 Cranial shell | extended rear, high rim
+16:37:09 | INFO: Primitives created: 1
+16:37:09 | INFO: Extracting primitive: 02 Face shield | pointed chin and swept temples
+16:37:09 | INFO: Primitives created: 1
+16:37:09 | INFO: Extracting primitive: 03 Left cheek shell
+16:37:09 | INFO: Primitives created: 1
+16:37:09 | INFO: Extracting primitive: 04 Right cheek shell
+16:37:09 | INFO: Primitives created: 1
+16:37:10 | INFO: Finished glTF 2.0 export in 0.151108980178833 s
+
+16:37:10 | INFO: Starting glTF 2.0 export
+16:37:10 | INFO: Extracting primitive: 01 Cranial shell | extended rear, high rim
+16:37:10 | INFO: Primitives created: 1
+16:37:10 | INFO: Finished glTF 2.0 export in 0.03748035430908203 s
+
+16:37:10 | INFO: Starting glTF 2.0 export
+16:37:10 | INFO: Extracting primitive: 02 Face shield | pointed chin and swept temples
+16:37:10 | INFO: Primitives created: 1
+16:37:10 | INFO: Finished glTF 2.0 export in 0.04717564582824707 s
+
+16:37:10 | INFO: Starting glTF 2.0 export
+16:37:10 | INFO: Extracting primitive: 03 Left cheek shell
+16:37:10 | INFO: Primitives created: 1
+16:37:10 | INFO: Finished glTF 2.0 export in 0.014960050582885742 s
+
+16:37:10 | INFO: Starting glTF 2.0 export
+16:37:10 | INFO: Extracting primitive: 04 Right cheek shell
+16:37:10 | INFO: Primitives created: 1
+16:37:10 | INFO: Finished glTF 2.0 export in 0.011904001235961914 s
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v3.py:115: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new('Reference '+name);m.use_nodes=True;nodes=m.node_tree.nodes;nodes.clear()
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v3.py:125: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True;bg=scene.world.node_tree.nodes.get('Background');bg.inputs[0].default_value=(.075,.08,.09,1);bg.inputs[1].default_value=.6
+00:05.140  reports          | WARNING Path 'C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Dots Stroke'
+00:05.140  reports          | WARNING Path 'C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Material'
+00:05.203  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_4840_4a83679dd852bf8d6d0bc8ed1d98c152.png.png"
+00:12.719  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\shell-three-quarter.png'
+00:19.844  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\shell-front.png'
+00:26.594  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\shell-side.png'
+00:33.734  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\shell-back.png'
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v3.py:138: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  wire=bpy.data.materials.new('Comparison coral');wire.diffuse_color=(1,.10,.035,1);wire.use_nodes=True
+00:40.078  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\blueprint-comparison-front.png'
+00:46.969  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\blueprint-comparison-side.png'
+00:53.781  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v3\blueprint-comparison-back.png'
+
+Info: Saved as "Numen_1_helmet_shell_v3.blend"
+SHELL COMPLETE {'mesh_parts': 4, 'polygons': 14745, 'triangles': 29260}
+
+Blender quit

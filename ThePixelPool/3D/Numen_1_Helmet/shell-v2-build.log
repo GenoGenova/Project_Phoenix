@@ -1,0 +1,30 @@
+00:00.141  reports          | WARNING Unable to open 'C:\Users\vincent.ganachaud\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v2.py:10: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('Neutral clay');mat.diffuse_color=(.66,.68,.70,1);mat.use_nodes=True
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+15:57:49 | INFO: Starting glTF 2.0 export
+15:57:49 | INFO: Extracting primitive: 01 Cranial shell | extended rear, high rim
+15:57:49 | INFO: Primitives created: 1
+15:57:49 | INFO: Extracting primitive: 02 Face shield | pointed chin and swept temples
+15:57:49 | INFO: Primitives created: 1
+15:57:49 | INFO: Extracting primitive: 03 Left cheek shell
+15:57:49 | INFO: Primitives created: 1
+15:57:49 | INFO: Extracting primitive: 04 Right cheek shell
+15:57:49 | INFO: Primitives created: 1
+15:57:49 | INFO: Finished glTF 2.0 export in 0.24867916107177734 s
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_shell_v2.py:92: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True;bg=scene.world.node_tree.nodes.get('Background');bg.inputs[0].default_value=(.075,.08,.09,1);bg.inputs[1].default_value=.6
+00:06.547  reports          | WARNING Path 'C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Dots Stroke'
+00:06.547  reports          | WARNING Path 'C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Material'
+00:06.563  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_20964_d44cf20594dfb17900191673f2da3839.png.png"
+00:16.532  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v2\shell-three-quarter.png'
+00:24.922  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v2\shell-front.png'
+00:33.203  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v2\shell-side.png'
+00:42.907  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\shell-v2\shell-back.png'
+
+Info: Saved as "Numen_1_helmet_shell_v2.blend"
+SHELL COMPLETE {'mesh_parts': 4, 'polygons': 13348, 'triangles': 26464}
+
+Blender quit

@@ -1,0 +1,248 @@
+00:00.157  reports          | WARNING Unable to open 'C:\Users\vincent.ganachaud\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+00:05.704  blend            | Read blend: "E:\Project_Phoenix\ThePixelPool\3D\Numen_1\Numen_1_base_v1.blend"
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+15:36:37 | INFO: Starting glTF 2.0 export
+15:36:37 | INFO: Extracting primitive: Breather slot
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Breather slot.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Breather slot.002
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Breather slot.003
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Breather slot.004
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Breather slot.005
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Cyan slit left
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Cyan slit right
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Dark visor band
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Gorget collar
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet brow trim
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet brow trim.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet ear bearing
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet ear bearing.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet ear insert
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Helmet ear insert.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Knight helmet dome
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck dark inner core
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.002
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.003
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.004
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.005
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.006
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.007
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.008
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.009
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.010
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.011
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.012
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.013
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.014
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.015
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.016
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.017
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.018
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.019
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.020
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.021
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.022
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.023
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.024
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.025
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.026
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.027
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.028
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.029
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.030
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.031
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.032
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.033
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck grown node.034
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.002
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.003
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.004
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.005
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.006
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.007
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.008
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.009
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.010
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.011
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.012
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.013
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.014
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.015
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.016
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.017
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.018
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.019
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.020
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.021
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.022
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.023
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.024
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.025
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.026
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck longitudinal trabecula.027
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck neural filament
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.001
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.002
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.003
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.004
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.005
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.006
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.007
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.008
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.009
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.010
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.011
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.012
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.013
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.014
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.015
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.016
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.017
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.018
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.019
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.020
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.021
+15:36:37 | INFO: Primitives created: 1
+15:36:37 | INFO: Extracting primitive: Neck oblique trabecula.022
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Neck oblique trabecula.023
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Neck oblique trabecula.024
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Neck oblique trabecula.025
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Neck oblique trabecula.026
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Neck oblique trabecula.027
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Solid crest
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Swept temporal armor
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Swept temporal armor.001
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Visor face half
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Extracting primitive: Visor face half.001
+15:36:38 | INFO: Primitives created: 1
+15:36:38 | INFO: Finished glTF 2.0 export in 1.0615003108978271 s
+E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\build_helmet.py:62: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:14.579  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_10440_cf01a878351587684da925592668eb90.png.png"
+00:38.719  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\helmet-three-quarter-v1.png'
+00:58.094  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\helmet-front-v1.png'
+01:09.438  render           | Saved: 'E:\Project_Phoenix\ThePixelPool\3D\Numen_1_Helmet\helmet-rear-v1.png'
+
+Info: Saved as "Numen_1_helmet_v1.blend"
+HELMET COMPLETE {'objects': 115, 'polygons': 8600, 'triangles': 16756}
+
+Blender quit
